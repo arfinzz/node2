@@ -1,0 +1,24 @@
+{
+  "name": "bufferandstream",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon script.js",
+    "mystart": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arfinzz/node2.git"
+  },
+  "author": "arfinzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arfinzz/node2/issues"
+  },
+  "homepage": "https://github.com/arfinzz/node2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
